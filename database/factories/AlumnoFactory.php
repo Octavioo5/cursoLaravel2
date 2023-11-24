@@ -25,7 +25,7 @@ class AlumnoFactory extends Factory
         return [
             'nombre' =>$nombre,
             'edad' =>$edad,
-            'numero_control' =>$numero_control,
+            'nc' =>$numero_control,
             'sexo' =>$sexo
             
         ];
